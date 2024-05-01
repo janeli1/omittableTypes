@@ -1,4 +1,4 @@
-package omittable
+package models
 
 import "encoding/json"
 
